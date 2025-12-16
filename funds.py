@@ -3,7 +3,7 @@ from kiteconnect import KiteConnect
 from datetime import datetime
 import pandas as pd
 
-API_KEY = "83ebjltenz2vhjzo"
+API_KEY = "Enter your api key"
 
 # Load access token
 with open("access_token.json") as f:
